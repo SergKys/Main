@@ -64,12 +64,8 @@ PythonTutor</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://simpleicons.org/icons/yaml.svg" height="40" alt="yaml logo" />
   <span style="width: 12px;"></span>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" title="yaml" alt="yaml" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/MySQL.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
