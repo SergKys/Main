@@ -65,8 +65,8 @@ PythonTutor</p>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" height="40" alt="yaml logo" />
-  <img src="https://img.shields.io/badge/dynamic/yaml" height="40" alt="yaml logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/dynamic/yaml" height="40" alt="yaml logo"  />
   <img width="12" />
   
 </div>
