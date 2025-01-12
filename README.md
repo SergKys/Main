@@ -68,7 +68,6 @@ PythonTutor</p>
   <img width="12" />
   <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  
 </div>
 
 ###
