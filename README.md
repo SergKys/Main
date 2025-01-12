@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/sergkiselov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue&style=for-the-badge&logo=linkedin&logoColor=white2" height="25" alt="LinkedIn"  />
+  <a href="https://www.linkedin.com/in/sergkiselov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="kyselov.sergii@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
