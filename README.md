@@ -64,22 +64,22 @@ PythonTutor</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" height="40" alt="yaml logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" height="40" alt="yaml logo" />
   <img width="12" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://devicon.dev/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <span style="width: 12px;"></span>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/Webpack.svg" height="40" alt="webpack logo" />
+  <img src="https://simpleicons.org/icons/webpack.svg" height="40" alt="webpack logo" />
   <span style="width: 12px;"></span>
   <img src="https://skillicons.dev/icon?i=python" height="40" alt="python logo" />
   <span style="width: 12px;"></span>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" height="40" alt="yaml logo" />
+  <img src="https://simpleicons.org/icons/yaml.svg" height="40" alt="yaml logo" />
   <span style="width: 12px;"></span>
   <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
 </div>
