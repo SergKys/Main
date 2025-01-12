@@ -72,6 +72,20 @@ PythonTutor</p>
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <span style="width: 12px;"></span>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/Webpack.svg" height="40" alt="webpack logo" />
+  <span style="width: 12px;"></span>
+  <img src="https://skillicons.dev/icon?i=python" height="40" alt="python logo" />
+  <span style="width: 12px;"></span>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/YAML.svg" height="40" alt="yaml logo" />
+  <span style="width: 12px;"></span>
+  <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
+</div>
+
+###
+
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
