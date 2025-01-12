@@ -72,6 +72,7 @@ PythonTutor</p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/MySQL.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 </div>
 
 
