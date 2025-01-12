@@ -66,9 +66,7 @@ PythonTutor</p>
   <img width="12" />
   <img src="https://simpleicons.org/icons/yaml.svg" height="40" alt="yaml logo" />
   <span style="width: 12px;"></span>
-  <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <<img src="https://simpleicons.org/icons/mysql.svg" height="40" alt="sql logo" />
+  <img src="https://simpleicons.org/icons/mysql.svg" height="40" alt="sql logo" />
   <span style="width: 12px;">
 </div>
 
