@@ -67,7 +67,7 @@ PythonTutor</p>
   <img src="https://simpleicons.org/icons/yaml.svg" height="40" alt="yaml logo" />
   <span style="width: 12px;"></span>
   <img src="https://simpleicons.org/icons/mysql.svg" height="40" alt="sql logo" />
-  <span style="width: 12px;">
+  <span style="width: 12px;"></span>
 </div>
 
 ###
