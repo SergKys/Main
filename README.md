@@ -83,7 +83,6 @@ PythonTutor</p>
   <span style="width: 12px;"></span>
   <img src="https://skillicons.dev/icon?i=postgres" height="40" alt="postgresql logo" />
 </div>
-
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
