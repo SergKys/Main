@@ -70,20 +70,7 @@ PythonTutor</p>
   <span style="width: 12px;"></span>
 </div>
 
-###
 
-<div align="left">
-  <img src="https://devicon.dev/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <span style="width: 12px;"></span>
-  <img src="https://simpleicons.org/icons/webpack.svg" height="40" alt="webpack logo" />
-  <span style="width: 12px;"></span>
-  <img src="https://skillicons.dev/icon?i=python" height="40" alt="python logo" />
-  <span style="width: 12px;"></span>
-  <img src="https://simpleicons.org/icons/yaml.svg" height="40" alt="yaml logo" />
-  <span style="width: 12px;"></span>
-  <img src="https://simpleicons.org/icons/mysql.svg" height="40" alt="sql logo" />
-  <span style="width: 12px;"></span>
-</div>
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
