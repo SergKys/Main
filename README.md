@@ -43,7 +43,7 @@ PythonTutor</p>
 ###
 <h3 align="left">📕 </h3>
 
-
+![SergKys snake gif](https://github.com/sergkys/SergKys/blob/output/github-snake.svg)
 
 ###
 
