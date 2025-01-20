@@ -48,10 +48,7 @@ PythonTutor</p>
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-###
+
 ![SergKys snake gif](https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.gif)
 
 ###
@@ -92,4 +89,6 @@ PythonTutor</p>
 
 ###
 
-
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
