@@ -44,7 +44,7 @@ PythonTutor</p>
 ###
 <h3 align="left">📕 </h3>
 
-
+![snake gif](https://github.com/SergKys/SergKys/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
