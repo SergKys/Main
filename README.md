@@ -49,7 +49,7 @@ PythonTutor</p>
 ###
 
 
-![SergKys snake gif](https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.gif)
+![SergKys snake gif](https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
