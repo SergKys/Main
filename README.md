@@ -49,7 +49,7 @@ PythonTutor</p>
 ###
 
 
-![SergKys snake gif](https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.gif)
+![SergKys snake gif](https://github.com/SergKys/main/blob/master/dist/output/github-contribution-grid-snake.gif)
 
 ###
 
