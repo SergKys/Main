@@ -50,7 +50,7 @@ PythonTutor</p>
 
 <p align="center">
   <img width="600"
-![SergKys snake gif](https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.gif) alt="snake"/>
+src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ###
