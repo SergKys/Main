@@ -49,12 +49,12 @@ PythonTutor</p>
 ###
 
 <p align="center">
-  <img height="300" width="600"
+  <img height="30" width="60"
 src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
 </p>
 
 p align="center">
-  <img height="300" width="600"
+  <img height="30" width="60"
 src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.svg" alt="snake svg"/>
 </p>
 
