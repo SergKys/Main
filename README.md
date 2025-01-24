@@ -61,6 +61,10 @@ src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.
 
 ###
 
+![SergKys snake gif](https://github.com/SergKys/main/MishManners/blob/output/github-snake.svg)
+
+###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
