@@ -56,7 +56,7 @@ src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.
 ###
 
 <p align="center">
-  <img width="600" src="github/output/github-contribution-grid-snake.svg" alt="snake svg"/>
+  <img width="600" src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.svg" alt="snake svg"/>
 </p>
 
 ###
