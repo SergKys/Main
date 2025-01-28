@@ -103,6 +103,4 @@ PythonTutor</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
- <img width="60" 
-   src="https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.svg" alt="snake svg"/>
 </p>
