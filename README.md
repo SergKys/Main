@@ -61,7 +61,7 @@ src="https://github.com/SergKys/main/blob/output/github-contribution-grid-snake.
 
 ###
 
-## ![SergKys snake gif](https://github.com/SergKys/blob/output/github-snake.svg)
+## [SergKys snake gif](https://github.com/SergKys/blob/output/github-snake.svg)
 
 ###
 
