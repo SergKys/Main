@@ -44,19 +44,19 @@ PythonTutor</p>
 ###
 <h3 align="left">📕 </h3>
 
-## ![SergKys snake gif](https://github.com/SergKys/Main/blob/output/github-snake.svg)
 
 ###
 
 <p align="center">
   <img width="60"
-src="https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
+  src="https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
 </p>
 
 ###
 
 <p align="center">
-  <img width="60" src="https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.svg" alt="snake svg"/>
+  <img width="60" 
+  src="https://github.com/SergKys/Main/blob/output/github-contribution-grid-snake.svg" alt="snake svg"/>
 </p>
 
 ###
