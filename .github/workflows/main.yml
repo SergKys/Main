@@ -12,10 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
       - name: Create dist directory if it doesn't exist
         run: mkdir -p dist
-      - uses: Platane/snk@master
+        
+      - name: Generate snake animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: SergKys
@@ -23,15 +27,16 @@ jobs:
             dist/github-snake.sv
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
-      - run: ls -la dist 
-      - name: Push changes
+      - name: Check contents of dist directory
+        run: ls -la dist 
+      - name: Commit and push changes to the repository
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: output
           force: true
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
