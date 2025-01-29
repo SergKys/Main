@@ -61,7 +61,7 @@ PythonTutor</p>
 
 ###
 
-
+![Snake Animation](https://raw.githubusercontent.com/SergKys/Main/output/github-contribution-grid-snake.gif)
 
 ###
 
