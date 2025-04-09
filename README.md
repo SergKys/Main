@@ -11,13 +11,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sergkiselov" target="_blank">
+  <a href="https://www.linkedin.com/in/sergk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-  <a href="mailto:kyselov.sergii@gmail.com" target="_blank">
+  <a href="mailto:@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
 </a>
-  <a href="https://t.me/sergsys" target="_blank">
+  <a href="https://t.me/serg_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -34,9 +34,9 @@
 
 ###
 
-<p align="left">Я работаю System analyst. Но мой путь в it начался как Project manager в финансовой компании. Был ряд пет-проектов среди которых ed-tech и voice assistant в которых были востребованы навыки System analyst, Busyness analyst и Project manager. 
+<p align="left">Я работаю System analyst. Но мой путь в it начался в финансовой компании. Был ряд пет-проектов среди которых ed-tech и voice assistant в которых были востребованы навыки System analyst и Busyness analyst. 
 <br>Автоматизирую процессы заказчика, улучшаю пользовательский опыт, внедряю программные продукты. Качественно формирую технические задания, глубоко прорабатываю задачу. Анализирую требования бизнеса и понимаю, какую "боль" заказчика мы можем решить программным продуктом.<br>
-<br>- 🔭 Открытая школа Системных аналитиков от Т1 Цифровая Академия.
+<br>- 🔭 Старший системный аналитик DWH LastCHANCE Co.
 <br>- 📚 Участвовал в Хакатоне "HackDay #70"!
 <br>- ⚡ Python: начинающий
 PythonTutor</p>
